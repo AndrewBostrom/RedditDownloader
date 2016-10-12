@@ -1,0 +1,9 @@
+c:\users\andrew\documents\visual studio 2015\Projects\RedditDownloader\bin\Debug\RedditDownloader.exe.config
+c:\users\andrew\documents\visual studio 2015\Projects\RedditDownloader\obj\Debug\RedditDownloader.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2015\Projects\RedditDownloader\bin\Debug\RedditDownloader.exe
+c:\users\andrew\documents\visual studio 2015\Projects\RedditDownloader\bin\Debug\RedditDownloader.pdb
+c:\users\andrew\documents\visual studio 2015\Projects\RedditDownloader\obj\Debug\RedditDownloader.exe
+c:\users\andrew\documents\visual studio 2015\Projects\RedditDownloader\obj\Debug\RedditDownloader.pdb
+C:\Users\Andrew\documents\visual studio 2015\Projects\RedditDownloader\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Andrew\documents\visual studio 2015\Projects\RedditDownloader\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Andrew\documents\visual studio 2015\Projects\RedditDownloader\bin\Debug\HtmlAgilityPack.xml
